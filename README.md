@@ -2,6 +2,9 @@
 
 ### Project Overview
 
+### Data Source
+https://www.kaggle.com/datasets/prachi13/customer-analytics
+
 ### Methods and Tools
 * Data Cleaning (Excel, SQL Server)
 * Data Visualisation (Power BI)
