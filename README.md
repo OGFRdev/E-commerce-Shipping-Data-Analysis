@@ -20,6 +20,7 @@ https://www.kaggle.com/datasets/prachi13/customer-analytics
 * Delivery Time: From the total shipments made, 4,436 were delivered on time (40.3%) and 6,563 were delivered late (59.7%).
 
 ### Conclusion
-Female customers with 50.4% made up the higher percentage of the customer block. Ship was the most common means of shipment. 
+Female customers, comprising 50.4% made up the higher percentage of the customer base. Ship was the most common means of shipment. Shipments were delivered late regardless of the mode of shipment used. Shipments via Road and Flight need to be bolstered as the margin of 'On time' deliveries when compared to shipments via Ship.
 
 ### Recommendations
+Customers should be encouraged to use other shipment methods to even out the workload. Discounts are good incentives and should be continued.
